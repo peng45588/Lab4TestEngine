@@ -4,7 +4,8 @@ public class Time {
 
 	private int weekday;
 	private int period;
-	
+
+
 	public Time(){
 	}
 	
